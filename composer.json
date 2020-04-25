@@ -1,0 +1,16 @@
+{
+    "name": "rudinandrey/hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "rudinandrey",
+            "email": "rudinandrey@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "rudinandrey\\HelloComposer\\" : "src/"
+        }
+    }
+}
